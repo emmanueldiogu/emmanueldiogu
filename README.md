@@ -1,5 +1,5 @@
 
-<img src="[/assets/img/MarineGEO_logo.png](https://images.unsplash.com/photo-1564711165898-67fe8327b433?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80_)" alt="Welcome banner" style="height: 100px; width:100%;"/>
+<img src="https://images.unsplash.com/photo-1564711165898-67fe8327b433?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80_)" alt="Welcome banner" style="height: 100px; width:100%;"/>
 <h1 align="center">👋 Hi, I’m Emmanuel Diogu</h1>
 
 - 💞️ I’m currently working on **Projects with Python [Django, DRF]**
