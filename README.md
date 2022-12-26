@@ -5,7 +5,7 @@
 <!-- <img src="https://media.licdn.com/dms/image/C4D03AQF7o-0N0tvX6g/profile-displayphoto-shrink_200_200/0/1603795294794?e=1677715200&v=beta&t=aeYpg-umWDJM9yuHWNV2yc_E7Vnwr5oVUf1YreLCGPs" align="right" /> -->
 <img src="https://images.unsplash.com/photo-1585079542156-2755d9c8a094?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="Progamming" align="right" width="400px"/>
 
-<p align="left"> <img src="" alt="Emmanuel Diogu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanueldiogu" alt="Emmanuel Diogu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/emachizy" target="_blank"><img src="https://img.shields.io/twitter/follow/emachizy?logo=twitter&style=for-the-badge" alt="Emmanuel Diogu" /></a> </p>
 
