@@ -73,6 +73,6 @@ Name | Badges
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmanueldiogu&theme=dark" alt="emmanueldiogu" /></p>
 <br/>
- <b>Note:</b> The top languages shown here are just a measure of what I have posted here on GitHub and not my actual skill level.
+ <b>Note:</b> The showcased languages on my GitHub repository only represent a fraction of the work I have completed in the past, and they do not fully encompass my overall skill level.
 
 <br/>
